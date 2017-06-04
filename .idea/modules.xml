@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practica #2-Aplicación Web-CRUD.iml" filepath="$PROJECT_DIR$/.idea/modules/Practica #2-Aplicación Web-CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practica_#2-Aplicación_Web-CRUD_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Practica_#2-Aplicación_Web-CRUD_main.iml" group="Practica #2-Aplicación Web-CRUD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practica_#2-Aplicación_Web-CRUD_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Practica_#2-Aplicación_Web-CRUD_test.iml" group="Practica #2-Aplicación Web-CRUD" />
+    </modules>
+  </component>
+</project>
